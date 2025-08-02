@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 import os
 st.title("Housing Data")
-file_path = r"C:\Users\acer\Documents\kiran-python\ass\Housing.csv"
-data = pd.read_csv(file_path)
+data = pd.read_csv("Housing.csv")
+
 st.write(data)
 
 st.title("Explore and Clean Data:")
