@@ -1,0 +1,14 @@
+STORY TELLING
+
+The housing dataset provides valuable insights into the property market.
+ The average house price is moderately high, but the wide range and 
+ large standard deviation indicate that prices vary greatly across different
+  areas. A few outliers in the data, especially extremely high prices,
+   pull the mean up, which is clearly seen in the skewed distributions.
+    House areas also show large variation, suggesting a mix of small 
+    apartments and large homes in the dataset. Interestingly, the scatter
+     plot of price versus area shows a positive trend — as the area increases,
+     price tends to rise — but not always linearly, suggesting other factors 
+     like location or furnished status may play a role. 
+     The consistency in bedroom counts points to typical family-sized housing, but extreme cases exist. Overall, this dataset reflects a dynamic and diverse housing market, where price is influenced not only by size but likely by other hidden variables too. These insights can help buyers, sellers, and real estate analysts 
+     better understand price drivers and housing patterns in the region.
